@@ -1,4 +1,7 @@
 {
+  "first_canister": {
+    "ic": "okpcz-wiaaa-aaaam-qba3a-cai"
+  },
   "icp_project_backend": {
     "ic": "yp7sk-pyaaa-aaaam-qazaq-cai"
   },

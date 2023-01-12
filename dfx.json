@@ -1,21 +1,8 @@
 {
   "canisters": {
-    "icp_project_backend": {
+    "first_canister": {
       "main": "src/icp_project_backend/main.mo",
       "type": "motoko"
-    },
-    "icp_project_frontend": {
-      "dependencies": [
-        "icp_project_backend"
-      ],
-      "frontend": {
-        "entrypoint": "src/icp_project_frontend/src/index.html"
-      },
-      "source": [
-        "src/icp_project_frontend/assets",
-        "dist/icp_project_frontend/"
-      ],
-      "type": "assets"
     }
   },
   "defaults": {
